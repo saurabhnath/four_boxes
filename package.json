@@ -1,0 +1,19 @@
+{
+  "name": "four_boxes",
+  "version": "1.0.0",
+  "description": "my assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhnath/four_boxes.git"
+  },
+  "author": "saurabh nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhnath/four_boxes/issues"
+  },
+  "homepage": "https://github.com/saurabhnath/four_boxes#readme"
+}
